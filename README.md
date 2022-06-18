@@ -18,7 +18,7 @@ by Jorge L. "VinoBS" Rodriguez, and stb_sprintf by Jeff Roberts.
 
 <a name="stb_libs"></a>
 
-library    | lastest version | category | LoC | description
+library    | latest version | category | LoC | description
 --------------------- | ---- | -------- | --- | --------------------------------
 **[stb_vorbis.c](stb_vorbis.c)** | 1.20 | audio | 5563 | decode ogg vorbis files from file/memory to float/16-bit signed output
 **[stb_image.h](stb_image.h)** | 2.26 | graphics | 7762 | image loading/decoding from file/memory: JPG, PNG, TGA, BMP, PSD, GIF, HDR, PIC
@@ -163,3 +163,4 @@ for other people to use them from other languages.
 
 I still use MSVC 6 (1998) as my IDE because it has better human factors
 for me than later versions of MSVC.
+
